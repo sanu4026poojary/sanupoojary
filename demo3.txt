@@ -1,2 +1,6 @@
+<<<<<<< 
 all changes will stored in temporary storage area
 x=10
+=======
+
+>>>>>>> master
