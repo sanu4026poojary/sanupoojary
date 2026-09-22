@@ -1,3 +1,4 @@
 hi good morning 
 put your branch name 
-git switch command used to switch or create
+git switch command used to switch or create a branch
+good morning
