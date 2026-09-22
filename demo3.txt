@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 x=20
+=======
+<<<<<<< 
+all changes will stored in temporary storage area
+x=20
+=======
+
+>>>>>>> master
+>>>>>>> feature1
